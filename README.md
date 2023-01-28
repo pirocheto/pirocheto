@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pierre</h1>
+<h1 align="center">👋 Hi! I'm Pierre Rochet</h1>
 
-<table style="width:100%" border="0">
- <tr style="width:100%">
-    <td style="width:50%"></td>
-    <td style="width:50%"><img src="./Data-report.svg" /></td>
- </tr>
-</table>
+<div align="center">
+<img width="50%" src="./Data-report.svg" />
+</div>
 
 <div align="center">
     <a href="">
@@ -15,6 +12,6 @@
         <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github" />
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail" />
+        <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </div>
