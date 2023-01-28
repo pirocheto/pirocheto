@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pierre</h1>
 
-<!--
-**pirocheto/pirocheto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./Data-report.svg" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="">
+        <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail" />
+    </a>
+</div>
