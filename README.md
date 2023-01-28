@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
 
-<img src="./Data-report.svg" />
+<table border="0">
+ <tr>
+    <td style="width:50%"></td>
+    <td style="width:50%"><img src="./Data-report.svg" /></td>
+ </tr>
+</table>
 
 <div align="center">
     <a href="">
