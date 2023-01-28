@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
 
-<table border="0">
+<table style="width:100%" border="0">
  <tr style="width:100%">
     <td style="width:50%"></td>
     <td style="width:50%"><img src="./Data-report.svg" /></td>
