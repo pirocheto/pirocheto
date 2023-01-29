@@ -26,33 +26,36 @@
 
 ✨ I do a lot of things around machine learning such as preparing servers, training models, developing products or deploying services. I love to explore new technologies and leverage them to solve real-life problems.
 
-## My technical stack
+## My tech stack
 
 <style>
 .skill-icon {
-
     border-radius: 0.3em;
-    width: 70px;
+    width: 5em;
     /* height:70px; */
     /* background: grey; */
     justify-content: center;
     align-items: center;
     display: inline-flex;
     flex-direction: column;
-    margin: 0.3em;
+    margin: 0.3em 0.2em;
 }
 
 .skill-icon > img {
     /* background: grey; */
     padding: 0.3em;
-    height: 48px;
-    width: 48px;
+    height: 46px;
+    width: 46px;
 }
 
 </style>
 
 ### General
 
+<div class="skill-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <span>git</span>
+</div>
 <div class="skill-icon">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     <span>python</span>
@@ -62,31 +65,47 @@
     <span>poetry</span>
 </div>
 <div class="skill-icon">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <span>git</span>
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />
+    <span>conda</span>
 </div>
 
 ### Machine Learning
 
 <div class="skill-icon">
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />
-    <span>conda</span>
+    <img  src="./img/mlflow.svg" />
+    <span>mlflow</span>
+</div>
+<div class="skill-icon">
+    <img  src="./img/sklearn.svg" />
+    <span>sklearn</span>
 </div>
 <div class="skill-icon">
     <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
     <span>tensorflow</span>
 </div>
 <div class="skill-icon">
-    <img  src="./img/bentoml.svg" />
-    <span>benttoml</span>
+    <img  src="./img/rasa.svg" />
+    <span>rasa</span>
 </div>
 <div class="skill-icon">
-    <img  src="./img/sklearn.svg" />
-    <span>sklearn</span>
+    <img  src="./img/transformers.svg" />
+    <span>transformers</span>
+</div>
+<div class="skill-icon">
+    <img  src="./img/bentoml.svg" />
+    <span>benttoml</span>
 </div>
 
 ### Ops
 
+<div class="skill-icon">
+    <img src="./img/aws.svg"/>
+    <span>aws</span>
+</div>
+<div class="skill-icon">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" />
+    <span>ansible</span>
+</div>
 <div class="skill-icon">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/>
     <span>terraform</span>
@@ -96,10 +115,17 @@
     <span>docker</span>
 </div>
 <div class="skill-icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" />
-    <span>ansible</span>
-</div>
-<div class="skill-icon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <span>kubernetes</span>
+</div>
+<div class="skill-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+    <span>jenkins</span>
+</div>
+
+### IDE
+
+<div class="skill-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <span>vscode</span>
 </div>
