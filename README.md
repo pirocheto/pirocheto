@@ -48,8 +48,8 @@ explore new technologies and leverage them to solve real-life problems.
 <tr>
   <td align="center">
     <img
-      height="48"
-      width="48"
+      height="46"
+      width="46"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
     <br>
