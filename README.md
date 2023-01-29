@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Pierre Rochet</h1>
 
-![banner](./img/banner.png)
+![banner](./img/banner1.svg)
 
 <!-- <h2 align="center">Machine Learning Engineer</h2> -->
 
