@@ -122,6 +122,15 @@ explore new technologies and leverage them to solve real-life problems.
     <img
       height="46"
       width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    />
+    <br>
+    <span>pandas</span>
+  </td>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
       src="./img/transformers.svg"
     />
     <br>
