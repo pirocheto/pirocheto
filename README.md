@@ -131,7 +131,7 @@ explore new technologies and leverage them to solve real-life problems.
       width="46"
       src="./img/mlflow.svg"
     />
-    <br />
+    <br>
     <span>mlflow</span>
   </td>
   <td align="center">
@@ -156,7 +156,7 @@ explore new technologies and leverage them to solve real-life problems.
       width="46"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
     />
-    <br />
+    <br>
     <span>aws</span>
   </td>
   <td align="center">
