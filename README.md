@@ -1,10 +1,16 @@
-<h1 align="center">👋 Hi! I'm Pierre Rochet</h1>
+<h1 align="center">👋 Hi there! I'm Pierre Rochet</h1>
+
+<h2 align="center">Machine Learning Engineer</h2>
 
 <div align="center">
-<img width="50%" src="./Data-report.svg" />
+    <img src="https://img.shields.io/badge/machine%20learning-lightblue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/data%20science-lightblue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/mlops-lightblue?style=for-the-badge&logo=heart" />
 </div>
 
-<div align="center">
+## Connect with me
+
+<div align="">
     <a href="">
         <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />
     </a>
@@ -14,4 +20,86 @@
     <a href="">
         <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+</div>
+
+## About me
+
+✨ I do a lot of things around machine learning such as preparing servers, training models, developing products or deploying services. I love to explore new technologies and leverage them to solve real-life problems.
+
+## My technical stack
+
+<style>
+.skill-icon {
+
+    border-radius: 0.3em;
+    width: 70px;
+    /* height:70px; */
+    /* background: grey; */
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    margin: 0.3em;
+}
+
+.skill-icon > img {
+    /* background: grey; */
+    padding: 0.3em;
+    height: 48px;
+    width: 48px;
+}
+
+</style>
+
+### General
+
+<div class="skill-icon">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <span>python</span>
+</div>
+<div class="skill-icon">
+    <img src="./img/poetry.svg" />
+    <span>poetry</span>
+</div>
+<div class="skill-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <span>git</span>
+</div>
+
+### Machine Learning
+
+<div class="skill-icon">
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />
+    <span>conda</span>
+</div>
+<div class="skill-icon">
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
+    <span>tensorflow</span>
+</div>
+<div class="skill-icon">
+    <img  src="./img/bentoml.svg" />
+    <span>benttoml</span>
+</div>
+<div class="skill-icon">
+    <img  src="./img/sklearn.svg" />
+    <span>sklearn</span>
+</div>
+
+### Ops
+
+<div class="skill-icon">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/>
+    <span>terraform</span>
+</div>
+<div class="skill-icon">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+    <span>docker</span>
+</div>
+<div class="skill-icon">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" />
+    <span>ansible</span>
+</div>
+<div class="skill-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+    <span>kubernetes</span>
 </div>
