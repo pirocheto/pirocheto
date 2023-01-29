@@ -38,6 +38,11 @@ I do a lot of things around machine learning such as preparing
 servers, training models, developing products or deploying services. I love to
 explore new technologies and leverage them to solve real-life problems.
 
+- 🔭 I’m currently working at [Orange Bank](https://www.orangebank.fr/) in Paris, France.
+- 🌱 I am currently learning more computer security knowledge.
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I studied philosophy before learning programming.
+
 ## Some tools from my tech stack
 
 <table>
