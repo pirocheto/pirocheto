@@ -40,56 +40,56 @@ I do a lot of things around machine learning such as preparing
 servers, training models, developing products or deploying services. I love to
 explore new technologies and leverage them to solve real-life problems.
 
-## My tech stack
+## Some tools of my tech stack
 
 ### General
 
 <table>
 <tr>
-  <td align="center" min-width="100">
+  <td align="center">
     <img
-      height="46"
-      width="46"
+      height="48"
+      width="48"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
     <br>
     <span>git</span>
   </td>
   <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      />
-      <br>
-      <span>python</span>
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    />
+    <br>
+    <span>python</span>
   </td>
   <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
-      />
-      <br>
-      <span>conda</span>
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
+    />
+    <br>
+    <span>conda</span>
   </td>
   <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="./img/poetry.svg"
-      />
-      <br>
-      <span>poetry</span>
+    <img
+      height="46"
+      width="46"
+      src="./img/poetry.svg"
+    />
+    <br>
+    <span>poetry</span>
   </td>
   <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      />
-      <br>
-      <span>vscode</span>
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    />
+    <br>
+    <span>vscode</span>
   </td>
 </tr>
 </table>
