@@ -93,10 +93,10 @@ explore new technologies and leverage them to solve real-life problems.
     <img
       height="46"
       width="46"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
     />
     <br>
-    <span>bash</span>
+    <span>linux</span>
   </td>
 </tr>
 <tr>
