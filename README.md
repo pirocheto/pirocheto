@@ -46,7 +46,7 @@ explore new technologies and leverage them to solve real-life problems.
 
 <table>
 <tr>
-  <td align="center">
+  <td align="center" min-width="100">
     <img
       height="46"
       width="46"
@@ -55,8 +55,6 @@ explore new technologies and leverage them to solve real-life problems.
     <br>
     <span>git</span>
   </td>
-  </tr>
-  
   <td align="center">
       <img
         height="46"
