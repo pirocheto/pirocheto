@@ -53,7 +53,7 @@
 ### General
 
 <div class="skill-icon">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img  height="46" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <span>git</span>
 </div>
 <div class="skill-icon">
