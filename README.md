@@ -40,7 +40,7 @@ I do a lot of things around machine learning such as preparing
 servers, training models, developing products or deploying services. I love to
 explore new technologies and leverage them to solve real-life problems.
 
-## Some tools of my tech stack
+## Some tools from my tech stack
 
 <table>
 <tr>
