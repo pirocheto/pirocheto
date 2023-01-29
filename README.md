@@ -52,10 +52,12 @@ explore new technologies and leverage them to solve real-life problems.
       width="46"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
-    <br />
+    <br>
     <span>git</span>
   </td>
-    <td align="center">
+  </tr>
+  
+  <td align="center">
       <img
         height="46"
         width="46"
@@ -64,9 +66,7 @@ explore new technologies and leverage them to solve real-life problems.
       <br>
       <span>python</span>
   </td>
-
-  </td>
-    <td align="center">
+  <td align="center">
       <img
         height="46"
         width="46"
@@ -75,9 +75,7 @@ explore new technologies and leverage them to solve real-life problems.
       <br>
       <span>conda</span>
   </td>
-
-  </td>
-    <td align="center">
+  <td align="center">
       <img
         height="46"
         width="46"
@@ -86,9 +84,7 @@ explore new technologies and leverage them to solve real-life problems.
       <br>
       <span>poetry</span>
   </td>
-
-  </td>
-    <td align="center">
+  <td align="center">
       <img
         height="46"
         width="46"
@@ -97,7 +93,7 @@ explore new technologies and leverage them to solve real-life problems.
       <br>
       <span>vscode</span>
   </td>
-
+</tr>
 </table>
 
 ### Machine Learning
@@ -108,52 +104,46 @@ explore new technologies and leverage them to solve real-life problems.
     <img
       height="46"
       width="46"
+      src="./img/sklearn.svg"
+    />
+    <br>
+    <span>sklearn</span>
+  </td>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+    />
+    <br>
+    <span>tensorflow</span>
+  </td>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="./img/transformers.svg"
+    />
+    <br>
+    <span>transformers</span>
+  </td>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
       src="./img/mlflow.svg"
     />
     <br />
     <span>mlflow</span>
   </td>
-    <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="./img/sklearn.svg"
-      />
-      <br>
-      <span>sklearn</span>
-  </td>
-
-  </td>
-    <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      />
-      <br>
-      <span>tensorflow</span>
-  </td>
-
-  </td>
-    <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="./img/transformers.svg"
-      />
-      <br>
-      <span>transformers</span>
-  </td>
-
-  </td>
-    <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="./img/bentoml.svg"
-      />
-      <br>
-      <span>benttoml</span>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="./img/bentoml.svg"
+    />
+    <br>
+    <span>bentoml</span>
   </td>
 </tr>
 </table>
@@ -166,63 +156,55 @@ explore new technologies and leverage them to solve real-life problems.
     <img
       height="46"
       width="46"
-      src="./img/aws.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
     />
     <br />
     <span>aws</span>
   </td>
-    <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
-      />
-      <br>
-      <span>ansible</span>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
+    />
+    <br>
+    <span>ansible</span>
   </td>
-
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
+    />
+    <br>
+    <span>terraform</span>
   </td>
-    <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
-      />
-      <br>
-      <span>terraform</span>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    />
+    <br>
+    <span>docker</span>
   </td>
-
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+    />
+    <br>
+    <span>kubernetes</span>
   </td>
-    <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-      />
-      <br>
-      <span>docker</span>
-  </td>
-
-  </td>
-    <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-      />
-      <br>
-      <span>kubernetes</span>
-  </td>
-
-  </td>
-    <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
-      />
-      <br>
-      <span>jenkins</span>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+    />
+    <br>
+    <span>jenkins</span>
   </td>
 </tr>
 </table>
