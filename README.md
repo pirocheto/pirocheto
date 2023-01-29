@@ -42,8 +42,6 @@ explore new technologies and leverage them to solve real-life problems.
 
 ## Some tools of my tech stack
 
-### General
-
 <table>
 <tr>
   <td align="center">
@@ -91,22 +89,17 @@ explore new technologies and leverage them to solve real-life problems.
     <br>
     <span>vscode</span>
   </td>
-</tr>
-</table>
-
-### Machine Learning
-
-<table>
-<tr>
   <td align="center">
     <img
       height="46"
       width="46"
-      src="./img/sklearn.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
     />
     <br>
-    <span>sklearn</span>
+    <span>bash</span>
   </td>
+</tr>
+<tr>
   <td align="center">
     <img
       height="46"
@@ -115,6 +108,15 @@ explore new technologies and leverage them to solve real-life problems.
     />
     <br>
     <span>tensorflow</span>
+  </td>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="./img/sklearn.svg"
+    />
+    <br>
+    <span>sklearn</span>
   </td>
   <td align="center">
     <img
@@ -143,12 +145,16 @@ explore new technologies and leverage them to solve real-life problems.
     <br>
     <span>bentoml</span>
   </td>
+  <td align="center">
+    <img
+      height="46"
+      width="46"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+    />
+    <br>
+    <span>fastapi</span>
+  </td>
 </tr>
-</table>
-
-### Ops
-
-<table>
 <tr>
   <td align="center">
     <img
