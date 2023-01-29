@@ -44,8 +44,8 @@
 .skill-icon > img {
     /* background: grey; */
     padding: 0.3em;
-    height: 46px;
-    width: 46px;
+    /* height: 46px;
+    width: 46px; */
 }
 
 </style>
@@ -53,11 +53,11 @@
 ### General
 
 <div class="skill-icon">
-    <img  height="46" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height="46" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <span>git</span>
 </div>
 <div class="skill-icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img height="46" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     <span>python</span>
 </div>
 <div class="skill-icon">
