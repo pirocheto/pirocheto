@@ -5,10 +5,13 @@
     src="https://img.shields.io/badge/machine%20learning-lightblue?style=for-the-badge"
   />
   <img
+    src="https://img.shields.io/badge/mlops-lightblue?style=for-the-badge&logo=heart"
+  />
+  <img
     src="https://img.shields.io/badge/data%20science-lightblue?style=for-the-badge"
   />
   <img
-    src="https://img.shields.io/badge/mlops-lightblue?style=for-the-badge&logo=heart"
+    src="https://img.shields.io/badge/artificial%20intelligence-lightblue?style=for-the-badge&logo=heart"
   />
 </div>
 
