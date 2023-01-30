@@ -15,7 +15,7 @@
 ## Connect with me
 
 <div>
-  <a href="https://www.linkedin.com/in/pierre-rochet">
+  <a href="https://www.linkedin.com/in/pierre-rochet" target="_blank">
     <img
       src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
     />
@@ -48,7 +48,7 @@ explore new technologies and leverage them to solve real-life problems.
 <table>
 <tr>
   <td align="center">
-      <a href="https://git-scm.com/">
+      <a href="https://git-scm.com/" target="_blank">
         <img
           height="46"
           width="46"
@@ -59,7 +59,7 @@ explore new technologies and leverage them to solve real-life problems.
       <span>git</span>
   </td>
   <td align="center">
-    <a href="https://www.python.org/">
+    <a href="https://www.python.org/" target="_blank">
       <img
         height="46"
         width="46"
@@ -70,7 +70,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>python</span>
   </td>
   <td align="center">
-    <a href="https://www.anaconda.com/products/distribution">
+    <a href="https://www.anaconda.com/products/distribution" target="_blank">
       <img
         height="46"
         width="46"
@@ -81,7 +81,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>conda</span>
   </td>
   <td align="center">
-    <a href="https://python-poetry.org/">
+    <a href="https://python-poetry.org/" target="_blank">
       <img
         height="46"
         width="46"
@@ -92,7 +92,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>poetry</span>
   </td>
   <td align="center">
-    <a href="https://code.visualstudio.com/">
+    <a href="https://code.visualstudio.com/" target="_blank">
       <img
         height="46"
         width="46"
@@ -112,7 +112,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>linux</span>
   </td>
   <td align="center">
-    <a href="https://fastapi.tiangolo.com/">
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
       <img
         height="46"
         width="46"
@@ -125,7 +125,7 @@ explore new technologies and leverage them to solve real-life problems.
 </tr>
 <tr>
   <td align="center">
-    <a href="https://www.tensorflow.org/">
+    <a href="https://www.tensorflow.org/" target="_blank">
       <img
         height="46"
         width="46"
@@ -136,7 +136,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>tensorflow</span>
   </td>
   <td align="center">
-    <a href="https://scikit-learn.org/stable/">
+    <a href="https://scikit-learn.org/stable/" target="_blank">
     <img
       height="46"
       width="46"
@@ -147,7 +147,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>sklearn</span>
   </td>
   <td align="center">
-    <a href="https://pandas.pydata.org/">
+    <a href="https://pandas.pydata.org/" target="_blank">
       <img
         height="46"
         width="46"
@@ -158,7 +158,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>pandas</span>
   </td>
   <td align="center">
-    <a href="https://numpy.org/">
+    <a href="https://numpy.org/" target="_blank">
       <img
         height="46"
         width="46"
@@ -169,7 +169,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>numpy</span>
   </td>
   <td align="center">
-    <a href="https://huggingface.co/docs/transformers/index">
+    <a href="https://huggingface.co/docs/transformers/index" target="_blank">
       <img
         height="46"
         width="46"
@@ -180,7 +180,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>transformers</span>
   </td>
   <td align="center">
-    <a href="https://mlflow.org/">
+    <a href="https://mlflow.org/" target="_blank">
       <img
         height="46"
         width="46"
@@ -191,7 +191,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>mlflow</span>
   </td>
   <td align="center">
-    <a href="https://www.bentoml.com/">
+    <a href="https://www.bentoml.com/" target="_blank">
       <img
         height="46"
         width="46"
@@ -204,7 +204,7 @@ explore new technologies and leverage them to solve real-life problems.
 </tr>
 <tr>
   <td align="center">
-    <a href="https://aws.amazon.com/">
+    <a href="https://aws.amazon.com/" target="_blank">
       <img
         height="46"
         width="46"
@@ -215,7 +215,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>aws</span>
   </td>
   <td align="center">
-    <a href="https://www.ansible.com/">
+    <a href="https://www.ansible.com/" target="_blank">
       <img
         height="46"
         width="46"
@@ -226,7 +226,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>ansible</span>
   </td>
   <td align="center">
-    <a href="https://www.terraform.io/">
+    <a href="https://www.terraform.io/" target="_blank">
       <img
         height="46"
         width="46"
@@ -237,7 +237,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>terraform</span>
   </td>
   <td align="center">
-    <a href="https://www.docker.com/">
+    <a href="https://www.docker.com/" target="_blank">
       <img
         height="46"
         width="46"
@@ -248,7 +248,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>docker</span>
   </td>
   <td align="center">
-    <a href="https://kubernetes.io/">
+    <a href="https://kubernetes.io/" target="_blank">
       <img
         height="46"
         width="46"
@@ -259,7 +259,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>kubernetes</span>
   </td>
   <td align="center">
-    <a href="https://www.jenkins.io/">
+    <a href="https://www.jenkins.io/" target="_blank">
       <img
         height="46"
         width="46"
@@ -270,7 +270,7 @@ explore new technologies and leverage them to solve real-life problems.
     <span>jenkins</span>
   </td>
   <td align="center">
-    <a href="https://www.elastic.co/">
+    <a href="https://www.elastic.co/" target="_blank">
       <img
         height="46"
         width="46"
