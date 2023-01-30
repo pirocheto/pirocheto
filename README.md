@@ -15,7 +15,7 @@
 ## Connect with me
 
 <div>
-  <a href="www.linkedin.com/in/pierre-rochet">
+  <a href="https://www.linkedin.com/in/pierre-rochet">
     <img
       src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
     />
