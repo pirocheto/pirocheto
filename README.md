@@ -183,15 +183,15 @@ explore new technologies and leverage them to solve real-life problems.
     <span>transformers</span>
   </td>
   <td align="center">
-    <a href="https://mlflow.org/" target="_blank">
+    <a href="https://dvc.org/" target="_blank">
       <img
         height="46"
         width="46"
-        src="./img/mlflow.svg"
+        src="./img/dvc.svg"
       />
     </a>
     <br>
-    <span>mlflow</span>
+    <span>DVC</span>
   </td>
   <td align="center">
     <a href="https://www.bentoml.com/" target="_blank">
@@ -203,6 +203,7 @@ explore new technologies and leverage them to solve real-life problems.
     </a>
     <br>
     <span>bentoml</span>
+
   </td>
 </tr>
 <tr>
