@@ -28,7 +28,7 @@
       src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"
     />
   </a>
-  <a href="mailto: pirocheto@gamil.com">
+  <a href="mailto: pirocheto@gmail.com">
     <img
       src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
     />
