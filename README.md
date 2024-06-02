@@ -1,19 +1,21 @@
-![banner](./img/banner.svg)
+![banner](./img/banner.png)
 
 <div align="center">
   <img
-    src="https://img.shields.io/badge/machine%20learning-lightblue?style=for-the-badge"
+    src="https://img.shields.io/badge/cloud-lightblue?style=for-the-badge"
   />
   <img
-    src="https://img.shields.io/badge/mlops-lightblue?style=for-the-badge&logo=heart"
+    src="https://img.shields.io/badge/devops-lightblue?style=for-the-badge&logo=heart"
   />
   <img
-    src="https://img.shields.io/badge/data%20science-lightblue?style=for-the-badge"
+    src="https://img.shields.io/badge/data-lightblue?style=for-the-badge"
   />
   <img
     src="https://img.shields.io/badge/artificial%20intelligence-lightblue?style=for-the-badge&logo=heart"
   />
 </div>
+
+---
 
 ## Connect with me
 
@@ -28,17 +30,17 @@
       src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"
     />
   </a>
-  <a href="mailto: pierrerochet13@gamil.com">
+  <a href="https://medium.com/@pirocheto">
     <img
-      src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"
     />
   </a>
 </div>
 
 ## About me ✨
 
-I do a lot of things around machine learning such as preparing
-servers, training models, developing products or deploying services. I love to
+I do a lot of things around **data** and **artificial intelligence** such as preparing
+servers, developing products or deploying services. I love to
 explore new technologies and leverage them to solve real-life problems.
 
 - 🔭 I’m currently working at [Orange Bank](https://www.orangebank.fr/) in Paris, France. 🇫🇷
@@ -212,7 +214,7 @@ explore new technologies and leverage them to solve real-life problems.
       <img
         height="46"
         width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       />
     </a>
     <br>
