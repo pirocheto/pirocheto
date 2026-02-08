@@ -11,7 +11,7 @@
 
 ## About me ✨
 
-I specialize in AI-focused infrastructure, creating scalable cloud environments and end-to-end AI solutions. I work with emerging technologies and turn them into systems ready for real-world deployment.
+I work on AI-focused infrastructure, building cloud environments and end-to-end AI solutions. I contribute to bringing emerging technologies into real-world deployments.
 
 - 🔭 I'm working as a freelancer in Paris, France. 🇫🇷
 - 💻 My favorite languages are Python and Go.
