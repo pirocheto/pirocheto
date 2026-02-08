@@ -10,14 +10,14 @@
 
 ## About me ✨
 
-I'm a DevOps Engineer and Software Developer specializing in AI projects. I explore innovative technologies to build reliable and efficient systems, and what I enjoy most is helping teams deploy their AI solutions on robust, scalable cloud infrastructure.
+I'm a DevOps Engineer and Software Developer specializing in AI projects. I explore innovative technologies to build reliable and efficient systems. What I enjoy most is helping teams deploy their AI solutions on robust, scalable cloud infrastructure.
 
 - 🔭 I'm currently working as a freelancer in Paris, France. 🇫🇷
 - 🌱 I am currently improving my English.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I studied philosophy before learning programming.
 
-## Some tools from my tech stack
+## Some of my favorite tools
 
 <div align="center">
 
@@ -38,17 +38,6 @@ I'm a DevOps Engineer and Software Developer specializing in AI projects. I expl
     </a>
     <br>
     <span>aws</span>
-  </td>
-  <td align="center">
-    <a href="https://www.ansible.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
-      />
-    </a>
-    <br>
-    <span>ansible</span>
   </td>
   <td align="center">
     <a href="https://www.terraform.io/" target="_blank">
@@ -73,15 +62,26 @@ I'm a DevOps Engineer and Software Developer specializing in AI projects. I expl
     <span>docker</span>
   </td>
   <td align="center">
-    <a href="https://kubernetes.io/" target="_blank">
+    <a href="https://grafana.com/" target="_blank">
       <img
         height="46"
         width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"
       />
     </a>
     <br>
-    <span>kubernetes</span>
+    <span>grafana</span>
+  </td>
+  <td align="center">
+    <a href="https://opentelemetry.io/" target="_blank">
+      <img
+        height="46"
+        width="46"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg"
+      />
+    </a>
+    <br>
+    <span>opentelemetry</span>
   </td>
 </tr>
 </table>
@@ -154,6 +154,17 @@ I'm a DevOps Engineer and Software Developer specializing in AI projects. I expl
 <table>
 <tr>
   <td align="center">
+    <a href="https://www.langchain.com/" target="_blank">
+      <img
+        height="46"
+        width="46"
+        src="./img/langchain.svg"
+      />
+    </a>
+    <br>
+    <span>langchain</span>
+  </td>
+  <td align="center">
     <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank">
       <img
         height="46"
@@ -165,15 +176,15 @@ I'm a DevOps Engineer and Software Developer specializing in AI projects. I expl
     <span>fastmcp</span>
   </td>
   <td align="center">
-    <a href="https://www.langchain.com/" target="_blank">
+    <a href="https://huggingface.co/" target="_blank">
       <img
         height="46"
         width="46"
-        src="./img/langchain.svg"
+        src="./img/huggingface.svg"
       />
     </a>
     <br>
-    <span>langchain</span>
+    <span>tranformers</span>
   </td>
 </tr>
 </table>
