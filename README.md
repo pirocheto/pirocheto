@@ -199,5 +199,16 @@ I specialize in AI-focused infrastructure, creating scalable cloud environments 
     <br>
     <span>tranformers</span>
   </td>
+  <td align="center">
+    <a href="https://pytorch.org/" target="_blank">
+      <img
+        height="46"
+        width="46"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+      />
+    </a>
+    <br>
+    <span>pytorch</span>
+  </td>
 </tr>
 </table>
