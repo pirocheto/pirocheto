@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Pierre Rochet </h1>
   <h3>
-   🚀 AI Infrastructure Specialist • 🤖 AI Software Engineer</h3>
+   🚀 AI Infrastructure Specialist • 🤖 AI Sofware Engineer</h3>
   <p>
   <em>Helping teams deploy ambitious projects in the Cloud.</em>
   </p>
@@ -11,7 +11,7 @@
 
 ## About me ✨
 
-I specialize in AI-focused infrastructure, creating scalable cloud environments and end-to-end AI solutions. I leverage next-gen technologies to build practical, real-world systems.
+I specialize in AI-focused infrastructure, creating scalable cloud environments and end-to-end AI solutions. I work with emerging technologies and turn them into systems ready for real-world deployment.
 
 - 🔭 I'm working as a freelancer in Paris, France. 🇫🇷
 - 💻 My favorite languages are Python and Go.
