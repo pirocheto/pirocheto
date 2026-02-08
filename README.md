@@ -31,17 +31,6 @@ I specialize in AI-focused infrastructure, creating scalable cloud environments 
 <table>
 <tr>
   <td align="center">
-    <a href="https://aws.amazon.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      />
-    </a>
-    <br>
-    <span>aws</span>
-  </td>
-  <td align="center">
     <a href="https://www.terraform.io/" target="_blank">
       <img
         height="46"
