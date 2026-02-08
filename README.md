@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Pierre Rochet</h1>
-  <h3>🚀 DevOps Engineer • 🤖 AI Infrastructure Specialist</h3>
+  <h3>🚀 AI Solution Engineer • 🤖 AI Infrastructure Specialist</h3>
   <p>
-    <em>Helping teams deploy AI projects on AWS</em>
+    <em>Helping teams deploy AI projects on Cloud</em>
   </p>
 </div>
 
@@ -82,6 +82,17 @@ I'm a DevOps Engineer and Software Developer specializing in AI projects. I expl
     </a>
     <br>
     <span>opentelemetry</span>
+  </td>
+  <td align="center">
+    <a href="https://about.gitlab.com/stages-devops-platform/continuous-integration/" target="_blank">
+      <img
+        height="46"
+        width="46"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+      />
+    </a>
+    <br>
+    <span>gitlabci</span>
   </td>
 </tr>
 </table>
