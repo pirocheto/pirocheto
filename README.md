@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Pierre Rochet</h1>
-  <h3>🚀 AI Solution Engineer • 🤖 AI Infrastructure Specialist</h3>
+  <h3>🚀 AI Infrastructure Specialist • 🤖 AI Solution Engineer</h3>
   <p>
     <em>Helping teams deploy AI projects on Cloud</em>
   </p>
@@ -10,7 +10,7 @@
 
 ## About me ✨
 
-I'm a DevOps Engineer and Software Developer specializing in AI projects. I explore innovative technologies to build reliable and efficient systems. What I enjoy most is helping teams deploy their AI solutions on robust, scalable cloud infrastructure.
+I'm a DevOps Engineer specializing in AI projects, primarily focused on infrastructure while also building end-to-end solutions when needed. I explore innovative technologies to create reliable systems and support teams in deploying AI solutions in the cloud.
 
 - 🔭 I'm currently working as a freelancer in Paris, France. 🇫🇷
 - 🌱 I am currently improving my English.
