@@ -10,7 +10,7 @@
 
 ## About me ✨
 
-I'm a Devops and Software Engineer specializing in AI projects, primarily focused on infrastructure while also developing end-to-end solutions when needed. I explore innovative technologies to create reliable systems and support teams in deploying ambitious AI solutions in the cloud.
+I’m a DevOps and Software Engineer specializing in AI projects, mainly focused on infrastructure while also building end-to-end solutions. I enjoy creating reliable systems and helping teams deploy ambitious AI solutions in the cloud.
 
 - 🔭 I'm working as a freelancer in Paris, France. 🇫🇷
 - 💻 My favorite languages are Python and Go.
