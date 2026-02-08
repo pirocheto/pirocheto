@@ -1,213 +1,32 @@
-![banner](./img/banner.png)
-
 <div align="center">
-  <img
-    src="https://img.shields.io/badge/cloud-lightblue?style=for-the-badge"
-  />
-  <img
-    src="https://img.shields.io/badge/devops-lightblue?style=for-the-badge&logo=heart"
-  />
-  <img
-    src="https://img.shields.io/badge/data-lightblue?style=for-the-badge"
-  />
-  <img
-    src="https://img.shields.io/badge/artificial%20intelligence-lightblue?style=for-the-badge&logo=heart"
-  />
+  <h1>👋 Pierre Rochet</h1>
+  <h3>🚀 DevOps Engineer • 🤖 AI Infrastructure Specialist</h3>
+  <p>
+    <em>Helping teams deploy AI projects on AWS</em>
+  </p>
 </div>
 
 ---
 
-## Connect with me
-
-<div>
-  <a href="https://www.linkedin.com/in/pierre-rochet" target="_blank">
-    <img
-      src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
-    />
-  </a>
-  <a href="https://github.com/pirocheto">
-    <img
-      src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"
-    />
-  </a>
-  <a href="https://medium.com/@pirocheto">
-    <img
-      src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"
-    />
-  </a>
-</div>
-
 ## About me ✨
 
-I do a lot of things around **data** and **artificial intelligence** such as preparing
-servers, developing products or deploying services. I love to
-explore new technologies and leverage them to solve real-life problems.
+I'm a DevOps Engineer and Software Developer specializing in AI projects. I explore innovative technologies to build reliable and efficient systems, and what I enjoy most is helping teams deploy their AI solutions on robust, scalable cloud infrastructure.
 
-- 🔭 I’m currently working at [Orange Bank](https://www.orangebank.fr/) in Paris, France. 🇫🇷
+- 🔭 I'm currently working as a freelancer in Paris, France. 🇫🇷
 - 🌱 I am currently improving my English.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I studied philosophy before learning programming.
 
 ## Some tools from my tech stack
 
-<table>
-<tr>
-  <td align="center">
-      <a href="https://git-scm.com/" target="_blank">
-        <img
-          height="46"
-          width="46"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        />
-      </a>
-      <br>
-      <span>git</span>
-  </td>
-  <td align="center">
-    <a href="https://www.python.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      />
-    </a>
-    <br>
-    <span>python</span>
-  </td>
-  <td align="center">
-    <a href="https://www.anaconda.com/products/distribution" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
-      />
-    </a>
-    <br>
-    <span>conda</span>
-  </td>
-  <td align="center">
-    <a href="https://python-poetry.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="./img/poetry.svg"
-      />
-    </a>
-    <br>
-    <span>poetry</span>
-  </td>
-  <td align="center">
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      />
-    </a>
-    <br>
-    <span>vscode</span>
-  </td>
-  <td align="center">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-      />
-    <br>
-    <span>linux</span>
-  </td>
-  <td align="center">
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-      />
-    </a>
-    <br>
-    <span>fastapi</span>
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <a href="https://www.tensorflow.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      />
-    </a>
-    <br>
-    <span>tensorflow</span>
-  </td>
-  <td align="center">
-    <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img
-      height="46"
-      width="46"
-      src="./img/sklearn.svg"
-    />
-    </a>
-    <br>
-    <span>sklearn</span>
-  </td>
-  <td align="center">
-    <a href="https://pandas.pydata.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-      />
-    </a>
-    <br>
-    <span>pandas</span>
-  </td>
-  <td align="center">
-    <a href="https://numpy.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-      />
-    </a>
-    <br>
-    <span>numpy</span>
-  </td>
-  <td align="center">
-    <a href="https://huggingface.co/docs/transformers/index" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="./img/transformers.svg"
-      />
-    </a>
-    <br>
-    <span>transformers</span>
-  </td>
-  <td align="center">
-    <a href="https://dvc.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="./img/dvc.svg"
-      />
-    </a>
-    <br>
-    <span>DVC</span>
-  </td>
-  <td align="center">
-    <a href="https://www.bentoml.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="./img/bentoml.svg"
-      />
-    </a>
-    <br>
-    <span>bentoml</span>
+<div align="center">
 
-  </td>
-</tr>
+### DevOps
+
+</div>
+
+<div align="center">
+<table>
 <tr>
   <td align="center">
     <a href="https://aws.amazon.com/" target="_blank">
@@ -264,27 +83,97 @@ explore new technologies and leverage them to solve real-life problems.
     <br>
     <span>kubernetes</span>
   </td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+### Software Development
+
+</div>
+
+<div align="center">
+<table>
+<tr>
   <td align="center">
-    <a href="https://www.jenkins.io/" target="_blank">
+    <a href="https://www.python.org/" target="_blank">
       <img
         height="46"
         width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       />
     </a>
     <br>
-    <span>jenkins</span>
+    <span>python</span>
   </td>
   <td align="center">
-    <a href="https://www.elastic.co/" target="_blank">
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
       <img
         height="46"
         width="46"
-        src="./img/elasticsearch.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
       />
     </a>
     <br>
-    <span>elasticsearch</span>
+    <span>fastapi</span>
+  </td>
+  <td align="center">
+    <a href="https://docs.astral.sh/uv/" target="_blank">
+      <img
+        height="46"
+        width="46"
+        src="https://docs.astral.sh/ruff/assets/favicon.ico"
+      />
+    </a>
+    <br>
+    <span>uv</span>
+  </td>
+  <td align="center">
+    <a href="https://golang.org/" target="_blank">
+      <img
+        height="46"
+        width="46"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
+      />
+    </a>
+    <br>
+    <span>go</span>
+  </td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+### Artificial Intelligence
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+  <td align="center">
+    <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank">
+      <img
+        height="46"
+        width="46"
+        src="./img/fastmcp.svg"
+      />
+    </a>
+    <br>
+    <span>fastmcp</span>
+  </td>
+  <td align="center">
+    <a href="https://www.langchain.com/" target="_blank">
+      <img
+        height="46"
+        width="46"
+        src="./img/langchain.svg"
+      />
+    </a>
+    <br>
+    <span>langchain</span>
   </td>
 </tr>
 </table>
