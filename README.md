@@ -64,17 +64,6 @@ I work on AI-focused infrastructure, building cloud environments and end-to-end 
     <span>grafana</span>
   </td>
   <td align="center">
-    <a href="https://opentelemetry.io/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg"
-      />
-    </a>
-    <br>
-    <span>opentelemetry</span>
-  </td>
-  <td align="center">
     <a href="https://about.gitlab.com/stages-devops-platform/continuous-integration/" target="_blank">
       <img
         height="46"
