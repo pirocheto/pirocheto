@@ -15,7 +15,6 @@
 I help companies scope, architect, and ship AI systems — RAG, LLM apps, and agents plugged into business data — and everything that keeps them running: evaluation, deployment, quality, and costs.
 
 - 🔭 After seven years as a data & AI engineer, I've been working as an independent AI architect since 2025, in Paris, France 🇫🇷 and remote.
-- 🌐 My website: [pierrerochet.com](https://pierrerochet.com)
 - ✍️ I write about AI systems that survive production on my French-language blog: [Journal d'inférence](https://pierrerochet.com/blog)
 - 💻 My favorite languages are Python and Go.
 - 🌱 I'm currently improving my English.
