@@ -1,9 +1,10 @@
 <div align="center">
-  <h1>👋 Pierre Rochet </h1>
-  <h3>
-   🚀 AI Infrastructure Specialist • 🤖 AI Sofware Engineer</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/banner-dark.svg">
+    <img src="./img/banner.svg" alt="Pierre Rochet — AI Architect" width="100%">
+  </picture>
   <p>
-  <em>Helping teams deploy ambitious projects in the Cloud.</em>
+  <em>I find where AI truly pays off, and I build what proves it.</em>
   </p>
 </div>
 
@@ -11,9 +12,11 @@
 
 ## About me ✨
 
-I work on AI-focused infrastructure, building cloud environments and end-to-end AI solutions. I contribute to bringing emerging technologies into real-world deployments.
+I help companies scope, architect, and ship AI systems — RAG, LLM apps, and agents plugged into business data — and everything that keeps them running: evaluation, deployment, quality, and costs.
 
-- 🔭 I'm working as a freelancer in Paris, France. 🇫🇷
+- 🔭 After seven years as a data & AI engineer, I've been working as an independent AI architect since 2025, in Paris, France 🇫🇷 and remote.
+- 🌐 My website: [pierrerochet.com](https://pierrerochet.com)
+- ✍️ I write about AI systems that survive production on my French-language blog: [Journal d'inférence](https://pierrerochet.com/blog)
 - 💻 My favorite languages are Python and Go.
 - 🌱 I'm currently improving my English.
 - 😄 Pronouns: He / Him
@@ -32,44 +35,60 @@ I work on AI-focused infrastructure, building cloud environments and end-to-end 
 <tr>
   <td align="center">
     <a href="https://www.terraform.io/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/terraform-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/terraform.svg"
+          alt="terraform"
+        />
+      </picture>
     </a>
     <br>
     <span>terraform</span>
   </td>
   <td align="center">
     <a href="https://www.docker.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/docker-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/docker.svg"
+          alt="docker"
+        />
+      </picture>
     </a>
     <br>
     <span>docker</span>
   </td>
   <td align="center">
     <a href="https://grafana.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/grafana-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/grafana.svg"
+          alt="grafana"
+        />
+      </picture>
     </a>
     <br>
     <span>grafana</span>
   </td>
   <td align="center">
     <a href="https://about.gitlab.com/stages-devops-platform/continuous-integration/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/gitlabci-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/gitlabci.svg"
+          alt="gitlabci"
+        />
+      </picture>
     </a>
     <br>
     <span>gitlabci</span>
@@ -89,44 +108,60 @@ I work on AI-focused infrastructure, building cloud environments and end-to-end 
 <tr>
   <td align="center">
     <a href="https://www.python.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/python-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/python.svg"
+          alt="python"
+        />
+      </picture>
     </a>
     <br>
     <span>python</span>
   </td>
   <td align="center">
     <a href="https://fastapi.tiangolo.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/fastapi-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/fastapi.svg"
+          alt="fastapi"
+        />
+      </picture>
     </a>
     <br>
     <span>fastapi</span>
   </td>
   <td align="center">
     <a href="https://docs.astral.sh/uv/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://docs.astral.sh/ruff/assets/favicon.ico"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/uv-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/uv.svg"
+          alt="uv"
+        />
+      </picture>
     </a>
     <br>
     <span>uv</span>
   </td>
   <td align="center">
     <a href="https://golang.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/go-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/go.svg"
+          alt="go"
+        />
+      </picture>
     </a>
     <br>
     <span>go</span>
@@ -145,48 +180,65 @@ I work on AI-focused infrastructure, building cloud environments and end-to-end 
 <table>
 <tr>
   <td align="center">
-    <a href="https://www.langchain.com/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="./img/langchain.svg"
-      />
+    <a href="https://www.langchain.com/langgraph" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/langgraph-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/langgraph.svg"
+          alt="langgraph"
+        />
+      </picture>
     </a>
     <br>
-    <span>langchain</span>
+    <span>langgraph</span>
   </td>
   <td align="center">
-    <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="./img/fastmcp.svg"
-      />
+    <a href="https://gofastmcp.com/" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/fastmcp-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/fastmcp.svg"
+          alt="fastmcp"
+        />
+      </picture>
     </a>
     <br>
     <span>fastmcp</span>
   </td>
   <td align="center">
     <a href="https://huggingface.co/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="./img/huggingface.svg"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/transformers-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/transformers.svg"
+          alt="transformers"
+        />
+      </picture>
     </a>
     <br>
-    <span>tranformers</span>
+    <span>transformers</span>
   </td>
   <td align="center">
     <a href="https://pytorch.org/" target="_blank">
-      <img
-        height="46"
-        width="46"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/pytorch-dark.svg">
+        <img
+          height="52"
+          width="52"
+          src="./img/icons/pytorch.svg"
+          alt="pytorch"
+        />
+      </picture>
     </a>
     <br>
     <span>pytorch</span>
   </td>
 </tr>
 </table>
+</div>
